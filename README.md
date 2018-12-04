@@ -1,1 +1,4 @@
 # TU20Fellowship2018
+This is the result of my project from the Tech Under 20 Fellowship. I applied to become a fellow at the end of my last year of high school and work on the project over the summer of 2018.
+
+This project is a web tool that reads off of GEOTAB's IoT Data & Insights specifically the areas of Idling which is apart of their urban Analytics. It reads this information by using Gooogle's BigQuery API and with the information, it will display "hot spots" for Idling on a map. The "hot spots" can be selected in order to get a graph of the hourly distribution of the Idling time at that location.
